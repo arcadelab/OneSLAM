@@ -1,0 +1,6 @@
+[submodule "submodules/cotracker"]
+	path = submodules/cotracker
+	url = https://github.com/facebookresearch/co-tracker
+[submodule "submodules/r2d2"]
+	path = submodules/r2d2
+	url = https://github.com/Soooooda69/r2d2

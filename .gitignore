@@ -1,0 +1,8 @@
+DATA/
+g2opy/
+experiments*
+debug.txt
+submodules/r2d2
+submodules/cotracker
+__pycache__
+.DS_Store

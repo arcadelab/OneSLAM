@@ -1,0 +1,14 @@
+{
+    "model": "./DBoW/r2d2/models/faster2d2_WASF_N16.pt",
+    "images": null,
+    "tag": "r2d2",
+    "top_k": 300,
+    "scale_f": 1.189207115002721,
+    "min_size": 256,
+    "max_size": 1024,
+    "min_scale": 0,
+    "max_scale": 1,
+    "reliability_thr": 0.7,
+    "repeatability_thr": 0.7,
+    "gpu": [0]
+}
