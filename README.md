@@ -9,8 +9,8 @@ Before setting up the pipeline, please make sure cmake and conda is installed an
 After downloading the repository and navigating to the root folder
 
 ```
-git clone TODO
-cd TODO
+git clone https://github.com/arcadelab/OneSLAM.git
+cd ./OneSLAM
 ```
 
 run 
@@ -96,5 +96,5 @@ We want to thank [TAP-Vid](https://tapvid.github.io/), [CoTracker](https://co-tr
 If you can make use of this work in your own research, please consider citing it as
 
 ```
-TODO
+Coming_Soon
 ```
