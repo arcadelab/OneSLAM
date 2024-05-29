@@ -96,5 +96,15 @@ We want to thank [TAP-Vid](https://tapvid.github.io/), [CoTracker](https://co-tr
 If you can make use of this work in your own research, please consider citing it as
 
 ```
-Coming_Soon
+@ARTICLE{Teufel2024OneSLAM,
+  title    = "{OneSLAM} to map them all: a generalized approach to {SLAM} for
+              monocular endoscopic imaging based on tracking any point",
+  author   = "Teufel, Timo and Shu, Hongchao and Soberanis-Mukul, Roger D and
+              Mangulabnan, Jan Emily and Sahu, Manish and Vedula, S Swaroop and
+              Ishii, Masaru and Hager, Gregory and Taylor, Russell H and
+              Unberath, Mathias",
+  journal  = "International Journal of Computer Assisted Radiology and Surgery",
+  month    =  may,
+  year     =  2024
+}
 ```
