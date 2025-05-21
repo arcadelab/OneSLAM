@@ -1,6 +1,6 @@
 # *OneSLAM* to Map Them All: A Generalized Approach to SLAM for Monocular Endoscopic Imaging based on Tracking any Point
 
-This repository contains the code for the monocular endoscopy SLAM pipeline *OneSLAM* to be presented at IPCAI 2024. The associated paper can be found [here](https://en.wikipedia.org/wiki/Todo).  If you have any questions, please contact [Timo Teufel](https://www.linkedin.com/in/timo-teufel-b00365247/) (tteufel1@jh.edu), [Hongchao Shu](https://en.wikipedia.org/wiki/Personal_web_page) (hshu4@jh.edu) or [Mathias Unberath](https://engineering.jhu.edu/faculty/mathias-unberath/) (unberath@jhu.edu). 
+This repository contains the code for the monocular endoscopy SLAM pipeline *OneSLAM* to be presented at IPCAI 2024. The associated paper can be found [here]([https://en.wikipedia.org/wiki/Todo](https://link.springer.com/article/10.1007/s11548-024-03171-6)).  If you have any questions, please contact [Timo Teufel](https://www.linkedin.com/in/timo-teufel-b00365247/) (tteufel1@jh.edu), [Hongchao Shu](https://en.wikipedia.org/wiki/Personal_web_page) (hshu4@jh.edu) or [Mathias Unberath](https://engineering.jhu.edu/faculty/mathias-unberath/) (unberath@jhu.edu). 
 
 ## Installing
 
